@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello world!
 
 first line.
@@ -12,4 +11,3 @@ new story line 1.
 new story line 2.
 
 line1
->>>>>>> 5ba4028 (line1)
