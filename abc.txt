@@ -13,5 +13,3 @@ new story line 2.
 line1
 
 line2
-
-line asdfasdfl;kasjd;flkjasdf;lskjdf
